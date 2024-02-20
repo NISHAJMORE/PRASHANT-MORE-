@@ -1,0 +1,19 @@
+
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+#info{
+    color: aliceblue;
+    font-style: italic;
+    font-size: medium;
+}
+
+#logo{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+}
